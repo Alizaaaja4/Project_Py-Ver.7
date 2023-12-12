@@ -14,7 +14,5 @@ Developer :
 <p align="left">
   <img src="https://github.com/Alizaaaja4/Project_Py-Ver.7/blob/main/Documentation/Documentation%20Ver-7.3.jpg" alt="Login Admin" width="350" height="200">
 </p>
-
-### Version 7.6
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=424490&height=120&section=footer"/>

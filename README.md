@@ -1,4 +1,4 @@
-<h1 align="center">Project EduQuery: Chatbot </h1>
+<h1 align="center">💬 Chatbot 💬</h1>
 
 <p align="center">A simple practice project to deepen your understanding of python programming by building a user-friendly application.</p>
 
@@ -8,7 +8,7 @@ This chatbot is a simple application that uses Python and Natural Language Toolk
 
 ## Get Started ▶️
 ### Clone the Repository
-    git clone https://github.com/Alizaaaja4/Shell_PlayStore.git
+    git clone https://github.com/Alizaaaja4/Project_Py-Ver.7.git
 
 ### Run my Programs with
     python EduQueryChatbot-Ver.7.3.py
